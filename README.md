@@ -16,5 +16,6 @@ This is an implementation of an interactive Rock-Paper-Scissors game, in which t
 # File structure of the project
 
 The converted_keras folder includes the model data from Teachable Machine
+manual_rps.py includes a python script for a game of rock paper scissoers between the computer and the user where the user types his input in
 
 # License information
