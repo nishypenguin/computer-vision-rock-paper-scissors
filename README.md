@@ -1,7 +1,7 @@
+# Rock, Paper, Scissors Game
 
 
-
-## A description of the project: what it does, the  aim of the project, and what you learned
+## A description of the project: what it does and what I learnt
 
 Rock-Paper-Scissors is a game in which each player simultaneously shows one of three hand signals representing rock, paper, or scissors. Rock beats scissors. Scissors beats paper. Paper beats rock.
 
@@ -42,4 +42,4 @@ Good luck!
 Each converted_keras folder includes a model from Teachable Machine
 The code for the final game can be found in the most accurate model converted_keras-4. In converted_keras-3 you may find some files such as testfile.py and camera-rps.py. These files were intermediaries to get the whole code working in the final_game.py file in converted_keras-4.
 
-# License information
+
