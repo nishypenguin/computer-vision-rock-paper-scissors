@@ -1,4 +1,4 @@
-# Computer Vision Rock, Paper, Scissors Game
+![Photo on 13-09-2023 at 16 35](https://github.com/nishypenguin/computer-vision-rock-paper-scissors/assets/137051665/086c3e1a-1b9c-4765-ab11-244a0350701d)# Computer Vision Rock, Paper, Scissors Game
 
 
 ## A description of the project: what it does, the  aim of the project, and what you learned
@@ -20,11 +20,16 @@ Run 'pip install requirements.txt' to download the necessary requirements for th
 
 In the repo. Find the repo converted_keras-4. Go to the final_game.py file and run the code. When the code starts, your webcam will open up, make sure you switch back to the code. The classic rock, paper, scissors countdown will appear. On "Shoot". Present to the computer either rock, paper, or scissors. If you do not present a valid option, the computer will ask you to go again. 
 Here is how you should present each of your choices:
-Rock:
+Rock: ![Photo on 13-09-2023 at 16 30](https://github.com/nishypenguin/computer-vision-rock-paper-scissors/assets/137051665/4e58955b-8acd-40b4-a8de-e5c6166003cd)
 
-Paper:
 
-Scissors:
+Paper: ![Photo on 13-09-2023 at 16 30 #2](https://github.com/nishypenguin/computer-vision-rock-paper-scissors/assets/137051665/b484d4a8-93d5-4f52-b03a-fe4e2ca8dd62)
+
+
+Scissors: ![Photo on 13-09-2023 at 16 35](https://github.com/nishypenguin/computer-vision-rock-paper-scissors/assets/137051665/86abffb3-86d3-4133-a2b3-3cdd9ee715d4)
+
+
+
 
 The computer will tell you who won the individual game between you and the computer, and the code will run until either you or the computer win 3 times, upon which an appropriate message will be displayed.
 
