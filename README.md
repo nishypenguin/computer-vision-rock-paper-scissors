@@ -1,4 +1,4 @@
-![Photo on 13-09-2023 at 16 35](https://github.com/nishypenguin/computer-vision-rock-paper-scissors/assets/137051665/086c3e1a-1b9c-4765-ab11-244a0350701d)# Computer Vision Rock, Paper, Scissors Game
+
 
 
 ## A description of the project: what it does, the  aim of the project, and what you learned
